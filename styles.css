@@ -751,6 +751,7 @@ section {
 
 .author-bio-column p {
     margin-bottom: var(--spacing-sm);
+    padding-right: var(--spacing-lg)
 }
 
 /* Footer */
